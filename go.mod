@@ -8,7 +8,7 @@ require (
 	github.com/kr/pretty v0.3.0 // indirect
 	github.com/onsi/gomega v1.16.0
 	github.com/paketo-buildpacks/occam v0.1.4
-	github.com/paketo-buildpacks/packit v0.14.3 // indirect
+	github.com/paketo-buildpacks/packit v1.0.0 // indirect
 	github.com/rogpeppe/go-internal v1.8.0 // indirect
 	github.com/sclevine/spec v1.4.0
 	golang.org/x/net v0.0.0-20210813160813-60bc85c4be6d // indirect
