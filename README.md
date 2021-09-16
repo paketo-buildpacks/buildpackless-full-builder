@@ -10,7 +10,7 @@ For example, with the `pack` CLI, use `--buildpack` as follows:
 ```
 pack build dotnet-with-buildpackless-builder \
            --buildpack gcr.io/paketo-buildpacks/dotnet-core \
-           --builder gcr.io/paketo-buildpacks/builder:buildpackless-base
+           --builder gcr.io/paketo-buildpacks/builder:buildpackless-full
 
 ```
 
