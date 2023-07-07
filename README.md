@@ -1,5 +1,11 @@
 # Paketo Buildpackless Full Builder
 
+## ⚠️ This repository is archived. No further releases will be made! ⚠️
+
+## Use the [Paketo Jammy Full Buildpackless Builder](https://github.com/paketo-buildpacks/builder-jammy-buildpackless-full) instead.
+
+---
+
 ## `paketobuildpacks/builder:buildpackless-full`
 
 This builder uses the [Paketo Full Stack](https://github.com/paketo-buildpacks/full-stack-release) (an Ubuntu bionic base image)
